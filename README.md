@@ -1,72 +1,61 @@
 # Hi, I'm Harish Chandra Kankipati 👋
 
-### Data Engineer | ETL & Data Warehouse Specialist | SQL | Python | PostgreSQL | AWS | Databricks
+### 🚀 Data Engineer | ETL & Data Warehousing | SQL • Python • PostgreSQL • AWS • Databricks
 
-I'm a data professional with **10+ years of experience** working across **ETL, Data Warehousing, Big Data, Database Management, Data Quality, API Testing, Automation, and Business Intelligence**.
+I'm a **data professional with 10+ years of experience** across **ETL, Data Warehousing, Big Data, Database Management, Data Quality, Automation, and Business Intelligence**.
 
-I recently completed my **Master of Science in Applied Data Analytics from Boston University**, strengthening my expertise in data engineering, advanced database systems, machine learning, analytics, and modern AI technologies.
+🎓 **M.S. in Applied Data Analytics — Boston University**
 
-My experience has primarily focused on building and validating enterprise-scale data platforms, with hands-on expertise in **SQL, Python, PostgreSQL, SQL Server, Oracle, AWS, Databricks, Jenkins, Kafka, and CI/CD pipelines**.
+I specialize in building, validating, and optimizing enterprise data solutions using **SQL, Python, PostgreSQL, SQL Server, Oracle, AWS, Databricks, Spark, and Kafka**.
 
-I'm currently expanding my work toward **Data Engineering**, with a particular interest in designing scalable data pipelines, optimizing database performance, building reliable data architectures, and solving complex data problems.
+Currently focused on **Data Engineering** — scalable ETL/ELT pipelines, data architecture, distributed processing, and database performance optimization.
 
-## 🚀 What I Work With
+---
+
+## 🛠️ Tech Stack
 
 **Languages & Databases**  
 `Python` • `SQL` • `PostgreSQL` • `SQL Server` • `Oracle` • `PL/SQL`
 
-**Data Engineering & Big Data**  
-`ETL/ELT` • `Data Warehousing` • `Databricks` • `Apache Spark` • `Kafka` • `Hive` • `DynamoDB`
+**Data Engineering**  
+`ETL/ELT` • `Data Warehousing` • `Apache Spark` • `Databricks` • `Kafka` • `Hive`
 
 **Cloud & DevOps**  
-`AWS` • `Azure` • `Jenkins` • `Git` • `CI/CD` • `Docker`
+`AWS` • `Azure` • `Docker` • `Jenkins` • `Git` • `CI/CD`
 
 **Data & Analytics**  
-`Power BI` • `Data Modeling` • `Dimensional Modeling` • `Database Normalization` • `Query Optimization` • `Performance Tuning`
+`Data Modeling` • `Query Optimization` • `Performance Tuning` • `Power BI`
 
 **Quality Engineering**  
-`ETL Testing` • `Data Validation` • `API Testing` • `Automation` • `BDD/Cucumber`
+`Data Validation` • `ETL Testing` • `API Testing` • `Automation` • `BDD/Cucumber`
 
-## 🎓 Education
-
-**Master of Science — Applied Data Analytics**  
-Boston University
-
-Key areas of study:
-
-- Advanced Database Management
-- Database Design & Implementation
-- Data Science with Python
-- Machine Learning
-- Advanced Machine Learning & Neural Networks
-- Generative AI
-- Web Mining & Graph Analytics
-- Statistics & Analytics
-- Data Visualization
+---
 
 ## 🔨 What You'll Find Here
 
-My GitHub includes projects and experiments involving:
+- 🏗️ **Data Engineering** — ETL/ELT pipelines & data workflows
+- 🐘 **PostgreSQL & SQL** — database design & performance tuning
+- 🏢 **Data Warehousing** — dimensional modeling & analytics
+- 🐍 **Python** — data processing & automation
+- 🔥 **Spark & Databricks** — distributed data processing
+- 🧪 **Data Quality** — validation & reconciliation frameworks
+- 🤖 **AI / ML** — Machine Learning & Generative AI
 
-- 🏗️ Data Engineering & ETL pipelines
-- 🐘 PostgreSQL database design and optimization
-- ⚡ SQL query performance tuning
-- 📊 Data Warehousing & dimensional modeling
-- 🐍 Python data processing
-- 🔥 Apache Spark & Databricks
-- 🤖 Machine Learning & Generative AI
-- 📈 Data analytics and visualization
-- 🧪 Data quality and validation frameworks
+---
 
 ## 🎯 Current Focus
 
-```text
+```text id="mh9shk"
 Data Engineering
-├── Python
-├── Advanced SQL
+├── Python & Advanced SQL
+├── PostgreSQL
 ├── Apache Spark
 ├── Databricks
 ├── AWS
 ├── ETL / ELT Pipelines
-├── Data Modeling
-└── Distributed Data Systems
+└── Data Modeling & Architecture
+```
+
+---
+
+> **Building reliable data systems, one pipeline and one query at a time.** 🚀
