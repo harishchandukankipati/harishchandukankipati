@@ -1,4 +1,4 @@
-# Hi, I'm Harish Chandra Kankipati 👋
+# Hi, I'm HarishChandra Kankipati 👋
 
 ### 🚀 Data Engineer | ETL & Data Warehousing | SQL • Python • PostgreSQL • AWS • Databricks
 
